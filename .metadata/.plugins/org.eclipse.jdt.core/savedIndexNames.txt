@@ -57,7 +57,6 @@ INDEX VERSION 1.134+C:\Users\Lucas Verri\Documents\Estudos\Intensivo JavaSpring\
 4028140832.index
 2288199679.index
 2941877504.index
-830647530.index
 981151041.index
 3913015219.index
 1865797976.index
